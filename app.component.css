@@ -1,0 +1,22 @@
+.example-container {
+  display: flex;
+  flex-direction: column;
+  min-width: 300px;
+}
+
+.mat-table {
+  overflow: auto;
+  max-height: 500px;
+}
+
+.textFilter {
+  font-size: 14px;
+    height: 59px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 14px 0;
+    display: block;
+    border: 1px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
